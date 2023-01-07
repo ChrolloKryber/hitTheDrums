@@ -82,3 +82,12 @@ footer {
   margin: 10px;
   background-color: white;
 }
+
+@media (max-width: 768px) {
+
+  h1,
+  .drum {
+    font-size: 3rem;
+  }
+}
+
